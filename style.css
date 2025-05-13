@@ -27,7 +27,7 @@ body{
 .grid-container{
     display: grid;
     width: 100%;
-    max-width: 1280px;
+    max-width: 780px;
     grid-template-columns:  repeat(4, 180px);
     grid-template-rows: repeat(7, 85px);
     gap: 1rem;
@@ -170,7 +170,7 @@ h2 span{
 }
 
 .item7 {
-  background: var(--Yellow2);
+  background: var(--White);
   padding-top: 1rem;
   text-align: left;
   grid-area: item7;
