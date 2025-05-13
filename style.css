@@ -44,14 +44,14 @@ body{
 .grid-container > div {
     border-radius: 0.5rem;
     padding:1.25rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
     transition: transform 0.3s ease;
   }
 
 p {
   color: var(--Black);
-  font-size: 1rem;
-  margin-top: 0.65rem;
+  font-size: 0.4rem;
+  margin-top: 0.5rem;
 }
 
 img {
