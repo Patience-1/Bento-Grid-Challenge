@@ -50,8 +50,8 @@ body{
 
 p {
   color: var(--Black);
-  font-size: 0.8rem;
-  margin-top: 0.6rem;
+  font-size: 1rem;
+  margin-top: 1rem;
 }
 
 img {
@@ -148,6 +148,9 @@ h2 span{
 .item4 h2{
   color: var(--Black);
 }
+.item4 img{
+  margin-top: 1.5rem;
+}
 
 /*BOX5 STYLING*/
 .item5 {
@@ -175,6 +178,10 @@ h2 span{
   text-align: left;
   grid-area: item7;
   line-height: 1.2rem;
+}
+
+.item7 img{
+  margin-top: 1.5rem;
 }
 
 .item8 {
